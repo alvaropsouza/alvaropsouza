@@ -7,3 +7,5 @@
 ![GitHub Logo](./computador.jpg)
 [🔵 Linkedin: alvaropsouza](https://www.linkedin.com/in/alvaropsouza/)
 [🔴 Youtube: alvaroksin](https://www.linkedin.com/in/alvaropsouza/)
+[🟡 Repositórios github](https://github.com/alvaropsouza?tab=repositories)
+
